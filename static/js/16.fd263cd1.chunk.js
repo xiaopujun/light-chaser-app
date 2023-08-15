@@ -1,0 +1,2 @@
+(this["webpackJsonplight-chaser"]=this["webpackJsonplight-chaser"]||[]).push([[16],{560:function(t,n,e){"use strict";e.r(n),e.d(n,"AntdRoseCommonStyleConfig",(function(){return u}));var r=e(7),c=e(8),i=e(10),a=e(9),o=e(0),s=e(2),u=function(t){Object(i.a)(e,t);var n=Object(a.a)(e);function e(){return Object(r.a)(this,e),n.apply(this,arguments)}return Object(c.a)(e,[{key:"render",value:function(){return Object(s.jsx)(s.Fragment,{children:"\u73ab\u7470\u56fe"})}}]),e}(o.Component)}}]);
+//# sourceMappingURL=16.fd263cd1.chunk.js.map

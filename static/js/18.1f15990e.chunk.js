@@ -1,0 +1,2 @@
+(this["webpackJsonplight-chaser"]=this["webpackJsonplight-chaser"]||[]).push([[18],{608:function(t,n,e){"use strict";e.r(n),e.d(n,"AntdLiquidConfig",(function(){return h}));var r=e(7),c=e(8),i=e(10),a=e(9),u=e(0),s=e(2),h=function(t){Object(i.a)(e,t);var n=Object(a.a)(e);function e(){return Object(r.a)(this,e),n.apply(this,arguments)}return Object(c.a)(e,[{key:"render",value:function(){return Object(s.jsx)(s.Fragment,{children:"\u6c34\u6ce2\u914d\u7f6e"})}}]),e}(u.Component)}}]);
+//# sourceMappingURL=18.1f15990e.chunk.js.map
