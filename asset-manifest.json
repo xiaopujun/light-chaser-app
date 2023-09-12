@@ -21,11 +21,11 @@
     "static/js/10.6a7566b5.chunk.js": "/light-chaser-app/static/js/10.6a7566b5.chunk.js",
     "main.css": "/light-chaser-app/static/css/main.1499c19c.chunk.css",
     "main.js": "/light-chaser-app/static/js/main.0986413a.chunk.js",
-    "runtime-main.js": "/light-chaser-app/static/js/runtime-main.2da620e6.js",
+    "runtime-main.js": "/light-chaser-app/static/js/runtime-main.2b788f43.js",
     "static/css/13.f975e0d3.chunk.css": "/light-chaser-app/static/css/13.f975e0d3.chunk.css",
     "static/js/13.55d3de12.chunk.js": "/light-chaser-app/static/js/13.55d3de12.chunk.js",
     "static/css/14.d1bf12c7.chunk.css": "/light-chaser-app/static/css/14.d1bf12c7.chunk.css",
-    "static/js/14.7692518e.chunk.js": "/light-chaser-app/static/js/14.7692518e.chunk.js",
+    "static/js/14.2a4ccb85.chunk.js": "/light-chaser-app/static/js/14.2a4ccb85.chunk.js",
     "static/css/15.4864e89d.chunk.css": "/light-chaser-app/static/css/15.4864e89d.chunk.css",
     "static/js/15.2c5cfae2.chunk.js": "/light-chaser-app/static/js/15.2c5cfae2.chunk.js",
     "static/css/16.4864e89d.chunk.css": "/light-chaser-app/static/css/16.4864e89d.chunk.css",
@@ -78,7 +78,7 @@
     "static/media/unlock.a58cef96.svg": "/light-chaser-app/static/media/unlock.a58cef96.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2da620e6.js",
+    "static/js/runtime-main.2b788f43.js",
     "static/css/13.f975e0d3.chunk.css",
     "static/js/13.55d3de12.chunk.js",
     "static/css/main.1499c19c.chunk.css",
