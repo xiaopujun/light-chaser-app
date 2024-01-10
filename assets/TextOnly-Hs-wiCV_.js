@@ -1,0 +1,1 @@
+import{j as i}from"./index-R38GedZx.js";import{U as n}from"./Button-FK7Q28Ii.js";import"./index-bfqC03wj.js";import"./AntdIcon-a_y6MES6.js";const l=t=>{const{defaultValue:r,tip:o,label:e}=t;return i.jsx(n,{tip:o,label:e,children:r})};export{l as TextOnly};
