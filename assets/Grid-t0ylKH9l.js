@@ -1,1 +1,0 @@
-import{j as r}from"./index-wY5bseHE.js";import{U as n}from"./UIContainer-aDq5B8cI.js";import"./QuestionCircleOutlined-_KKQMd73.js";const p=t=>{const{children:o,columns:s=1,gridGap:e,...i}=t,c={gridTemplateColumns:`repeat(${s}, 1fr)`,gridGap:e};return r.jsx(n,{...i,className:"lc-grid",children:r.jsx("div",{style:c,className:"lc-grid-layout",children:o})})};export{p as Grid};
