@@ -1,1 +1,0 @@
-import{j as r}from"./index-AnGvN2i1.js";function i(n){const{onChange:t,onClick:o,...e}=n,c=s=>{t&&t(),o&&o(s)};return r.jsx("button",{...e,onClick:c,className:"lc-button",children:n.children})}export{i as default};
