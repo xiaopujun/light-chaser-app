@@ -1,0 +1,1 @@
+import{j as i}from"./index-xvHtpy0-.js";import{U as m}from"./UIContainer-1y1wcmMZ.js";import"./index-s96thRN1.js";import"./QuestionCircleOutlined-ABMv3OQq.js";import"./AntdIcon-4A_YrOev.js";const x=t=>{const{defaultValue:r,tip:o,label:e}=t;return i.jsx(m,{tip:o,label:e,children:r})};export{x as TextOnly};
