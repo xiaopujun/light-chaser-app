@@ -1,0 +1,1 @@
+import{r,j as t}from"./index-3GqucBfC.js";const a=r.memo(()=>t.jsx("div",{style:{color:"wheat"},children:"开发中..."}));export{a as default};
