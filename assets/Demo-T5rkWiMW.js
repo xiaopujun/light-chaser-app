@@ -1,0 +1,1 @@
+import{r as t,j as e}from"./index-Vy1Yw5o7.js";function s(){return t.useEffect(()=>{},[]),e.jsx("div",{style:{width:500,height:200},children:e.jsx("div",{className:"text-scroller-container",children:e.jsx("div",{className:"text-scroller",children:"数据库的发的是开发商的交锋是点击发送的"})})})}export{s as default};

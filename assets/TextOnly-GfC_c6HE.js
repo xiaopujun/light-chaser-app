@@ -1,0 +1,1 @@
+import{j as e}from"./index-Vy1Yw5o7.js";import{U as m}from"./UIContainer-Yl49M_pF.js";import"./AntdIcon-H26mUnTY.js";import"./MainRouter-JVC0j7bk.js";import"./useZIndex-j0u8NYY7.js";import"./QuestionCircleOutlined-QjJiUeOP.js";const u=t=>{const{defaultValue:r,tip:o,label:i}=t;return e.jsx(m,{tip:o,label:i,children:r})};export{u as TextOnly};
