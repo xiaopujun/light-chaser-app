@@ -1,0 +1,1 @@
+var a=Object.defineProperty;var i=(t,e,o)=>e in t?a(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o;var s=(t,e,o)=>(i(t,typeof e!="symbol"?e+"":e,o),o);import{m as c,a as r,b}from"./LCGUI-T8HtwnFI.js";class v{constructor(){s(this,"activeNode",null);s(this,"setActiveNode",e=>{this.activeNode=e});c(this,{activeNode:r,setActiveNode:b})}}const n=new v;export{n as b};

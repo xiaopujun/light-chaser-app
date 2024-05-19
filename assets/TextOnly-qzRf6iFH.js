@@ -1,1 +1,0 @@
-import{j as i}from"./index-qpgUsgf4.js";import{U as m}from"./UIContainer-NqFQXah1.js";import"./AntdIcon-ivfCf0x2.js";import"./MainRouter-hTbgP2_-.js";import"./useZIndex-06b_ptW1.js";const x=t=>{const{defaultValue:r,tip:o,label:e}=t;return i.jsx(m,{tip:o,label:e,children:r})};export{x as TextOnly};
