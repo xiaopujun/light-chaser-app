@@ -1,0 +1,7 @@
+import{r as a,_ as f,j as e,L as d}from"./index-CIZzpp4t.js";import{D as u,U as v}from"./index-Ky8VuNT2.js";import{D as x,l as y,m as h,c as j}from"./LayerManager-9_OZ_v7l.js";import{o as D}from"./mobxreact.esm-QmaNsbsC.js";import{l as _}from"./FontGlobal-OJzIEJBO.js";import{S as c}from"./ScaleAction-O7o3lc4T.js";import"./FetchUtil-FMEOVjjY.js";import"./GlobalMessage-b_IUatJJ.js";import"./MainRouter-LJqlNU58.js";import"./useZIndex-C48Dwtsu.js";import"./index-PQsxm07c.js";import"./PreviewOpen-ZH2J-uf_.js";const E=a.lazy(()=>f(()=>import("./ScreenFit-_spDO5hA.js"),__vite__mapDeps([0,1,2,3,4]))),L=D(r=>{const{id:o,type:l}=r;a.useEffect(()=>{x.getLoader(u.VIEW).load(o,l)},[]);const{layerConfigs:p}=y,{loaded:m}=h,{canvasConfig:{width:s,height:t,adaptationType:g}}=j;return m?e.jsx(a.Suspense,{fallback:e.jsx(d,{}),children:e.jsx(E,{width:s,height:t,mode:g,scaleChange:(i,n)=>{c.doScale(i,n),c.doScale(i,n)},children:e.jsx("div",{style:{width:s,height:t,background:"black",overflow:"hidden",position:"relative"},children:_.buildCanvasComponents(p)})})}):e.jsx(d,{})}),b=L;function I(){const{saveType:r,id:o}=v.parseUrlParams();return e.jsx(b,{id:o,type:r})}export{I as default};
+function __vite__mapDeps(indexes) {
+  if (!__vite__mapDeps.viteFileDeps) {
+    __vite__mapDeps.viteFileDeps = ["assets/ScreenFit-_spDO5hA.js","assets/index-CIZzpp4t.js","assets/index-IyM4ICh1.css","assets/FetchUtil-FMEOVjjY.js","assets/ScreenFit-RlSoMzwI.css"]
+  }
+  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
+}

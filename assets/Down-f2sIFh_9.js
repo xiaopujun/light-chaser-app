@@ -1,0 +1,1 @@
+import{R as t}from"./index-CIZzpp4t.js";import{I as o}from"./index-PQsxm07c.js";const r=o("down",!1,function(e){return t.createElement("svg",{width:e.size,height:e.size,viewBox:"0 0 48 48",fill:"none"},t.createElement("path",{d:"M36 18L24 30L12 18",stroke:e.colors[0],strokeWidth:e.strokeWidth,strokeLinecap:e.strokeLinecap,strokeLinejoin:e.strokeLinejoin}))});export{r as D};

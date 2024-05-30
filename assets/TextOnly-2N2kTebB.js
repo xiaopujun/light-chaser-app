@@ -1,1 +1,0 @@
-import{j as i}from"./index-SMBBRqB_.js";import{U as m}from"./UIContainer-js826Hx0.js";import"./index-sdBZGtOm.js";import"./MainRouter-M1tmlz0W.js";import"./useZIndex-wp6dXb7H.js";const x=t=>{const{defaultValue:r,tip:o,label:e}=t;return i.jsx(m,{tip:o,label:e,children:r})};export{x as TextOnly};
