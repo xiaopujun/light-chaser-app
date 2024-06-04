@@ -1,1 +1,0 @@
-class i{static getDataFieldOptions(n){var o;const t=n.getConfig(),a=(o=t==null?void 0:t.data)==null?void 0:o.staticData,s=[];if(a&&a.length>=1){const c=a[0];Object.keys(c).forEach(e=>s.push({label:e,value:e}))}return s}}export{i as default};
