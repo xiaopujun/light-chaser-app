@@ -1,1 +1,0 @@
-body{background-color:#000;color:#fff}body .demo-canvas{position:absolute}body #demo-transform{position:relative;left:100px;top:100px;background:#00b2ff;transform-origin:-100px -100px}body #demo-transform:hover{animation:moveAndScale 4s ease-in-out infinite}@keyframes moveAndScale{0%{transform:translate(0)}50%{transform:translate(100px)}to{transform:scale(.5) translate(100px)}}
