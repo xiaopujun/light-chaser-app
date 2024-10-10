@@ -1,1 +1,0 @@
-import{j as r}from"./index-DDhbyKiN.js";import o from"./Error-DBQ2jT2a.js";import"./MainRouter-COL-bEo6.js";import"./index-fz_rESeB.js";import"./render-BaIMFhTQ.js";import"./asyncToGenerator-DNJv1fTK.js";import"./button-BeEC9RRM.js";import"./Compact-BVh8e472.js";function u(){return r.jsx(o,{})}export{u as default};

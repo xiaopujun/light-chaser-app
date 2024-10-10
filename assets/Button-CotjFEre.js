@@ -1,0 +1,1 @@
+import{j as h}from"./index-BfEWyzAb.js";import{B as m}from"./button-COGh-Ntl.js";function u(o){const{onChange:t,onClick:n,type:e,width:i,height:r,children:s}=o,a=c=>{t&&t(),n&&n(c)};return h.jsx(m,{type:e??"primary",style:{width:i??"100%",height:r},onClick:a,className:"lc-button",children:s})}export{u as B};
